@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly detailed realistic photograph of an overgrown garden maze where every path is obsessively shaped to match tiny irregular patterns in the ground. The maze walls twist unnecessarily into complex shapes, perfectly tracing small stones, cracks, and imperfections. The result looks unnatural and fragile. In the distance, outside the maze, is a simple clean straight path through open land. The maze looks overly complex and impractical compared to the simple path. Mood: excessive complexity, fragility, over-optimization. Color palette: natural greens and browns, slightly desaturated. Lighting: soft daylight. Composition: maze dominates foreground, simple path visible far in background. No text, no labels, no symbols, no diagrams, no charts.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A maze over-engineered to match tiny irregularities, becoming complex and fragile while a simple path outside represents generalization."
+}
