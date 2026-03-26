@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly detailed realistic photograph of an overgrown garden maze where every path is obsessively shaped to match tiny irregular patterns in the ground, twisting unnecessarily into complex shapes. The maze looks fragile and impractical. In the distance outside the maze is a simple straight path across open land. Natural lighting, cinematic composition, no text, no diagrams, no symbols. Negative prompt: no labels, no charts, no numbers",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "A maze overfitted to tiny ground irregularities becomes complex and unusable, while a simple straight path outside represents generalization."
+}
