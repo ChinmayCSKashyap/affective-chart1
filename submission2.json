@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal realistic scene of two staircases: each individual staircase clearly slopes upward when viewed separately, but when combined into a single structure they form a continuous downward slope. People walking on each staircase appear to be going up locally but overall descending globally. Natural lighting, physically plausible architecture, cinematic composition, no text, no numbers, no symbols, no diagrams.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each staircase rises locally, but combined they descend globally, showing how subgroup trends reverse when aggregated."
+}
